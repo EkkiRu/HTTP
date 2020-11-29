@@ -1,0 +1,15 @@
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.exe
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.deps.json
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.runtimeconfig.json
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.runtimeconfig.dev.json
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.dll
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\HttpTest.pdb
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.csprojAssemblyReference.cache
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.AssemblyInfoInputs.cache
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.AssemblyInfo.cs
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.dll
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.pdb
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.genruntimeconfig.cache
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\bin\Debug\netcoreapp3.1\FluentFTP.dll
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.csproj.CoreCompileInputs.cache
+C:\Users\rukzw\source\repos\HttpTest\HttpTest\obj\Debug\netcoreapp3.1\HttpTest.csproj.CopyComplete
